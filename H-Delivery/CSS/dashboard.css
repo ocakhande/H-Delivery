@@ -1,0 +1,24 @@
+.card {
+  margin-bottom: 20px;
+  padding: 20px;
+  height: 250px; 
+}
+.card-header {
+  background-color: #ffc107;
+  color: #fff; 
+  text-align: center;
+}
+.card-body {
+  background-color: #ffc107;
+  text-align: center; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  width: 50px; 
+  height: 50px; 
+}

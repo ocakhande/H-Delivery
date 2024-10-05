@@ -1,0 +1,13 @@
+.about-img {
+  max-width: 100%;
+  height: auto;
+}
+.about-content {
+  background-color: #f8f9fa;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.about-text {
+  color: #343a40;
+}

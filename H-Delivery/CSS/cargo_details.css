@@ -1,0 +1,27 @@
+.card {
+    background-color: ; 
+    margin-bottom: 5px;
+    padding: 10px;
+}
+.card-header {
+    color: #ff9800; 
+}
+.card-text {
+    color: #000; 
+}
+.status-history-item {
+    padding: 10px;
+    background-color: #f8f9fa; 
+    margin-bottom: 5px;
+}
+.card-text.status-link {
+    cursor: pointer;
+    text-decoration: underline;
+    color: #ff9800;
+}
+.tracking-number-card .card-body {
+    text-align: center;
+}
+.a{
+    background-color: #F1F1F1 ;
+}

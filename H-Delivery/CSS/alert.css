@@ -1,0 +1,11 @@
+
+.alert svg {
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: 0.5em;
+}
+.alert {
+  text-align: center;
+  max-width: 400px; 
+  margin: 0 auto; 
+}

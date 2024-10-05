@@ -1,0 +1,49 @@
+
+.form-container {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  #sidebarMenu .nav-link {
+    color: black;
+    text-align: center; 
+  }
+  
+  #sidebarMenu .nav-link.active {
+    font-weight: bold;
+    color: black;
+  }
+  
+  #sidebarMenu .nav-link:hover {
+    color: black;
+    background-color: #f8f9fa; 
+  }
+  
+  .form-container {
+    background-color: #f8f9fa; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .form-container hr {
+    border-top: 1px solid #ddd; 
+    margin: 20px 0;
+  }
+  
+  .form-container h3 {
+    color: #ffa007; 
+  }
+  
+  .form-container label {
+    font-weight: 500; 
+  }
+  
+  .form-check-label {
+    margin-left: 10px; 
+  }
+  .btn-secondary {
+    margin-top: 10px; 
+  }
+  
+  

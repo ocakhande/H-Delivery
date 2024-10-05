@@ -1,0 +1,10 @@
+#carouselExampleIndicators {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .alert {
+    text-align: center;
+    max-width: 400px; 
+    margin: 0 auto; 
+  }

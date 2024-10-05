@@ -1,0 +1,24 @@
+.contact-form {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 20px; 
+  }
+  .contact-title {
+    color: #343a40;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .contact-image {
+    text-align: center;
+    margin-bottom: 20px; 
+  }
+  .btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  .btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #e0a800;
+  }

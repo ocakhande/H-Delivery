@@ -1,0 +1,39 @@
+
+.nav-tabs .nav-link.active {
+  background-color: #ffc107; 
+  color: #fff;
+}
+.tab-content .tab-pane {
+  display: none;
+}
+.tab-content .tab-pane.active {
+  display: block;
+}
+.login-container {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  max-width: 400px; 
+  margin: auto; 
+}
+.login-container h2 {
+  margin-bottom: 20px;
+  color: #ffc107;
+  text-align: center;
+}
+.login-container input {
+  border-radius: 5px;
+}
+.login-container button {
+  background-color: #ffc107;
+  border: none;
+  border-radius: 5px;
+  width: 100%; 
+  max-width: 200px; 
+  margin: auto; 
+  display: block; 
+}
+.login-container button:hover {
+  background-color: #e0a800;
+}
